@@ -20,7 +20,7 @@ Vui vẻ và thư giãn
 * Trừu tượng hóa hệ thống X.O game vào Core OOP System Hierarchy architecture dễ scalable and maintainable.
 * Abstract polymorphism các đối tượng cốt lõi cho sự mở rộng.
 * Áp dụng Composition & Inheritance hợp lý trong việc thiết kế oop hệ thống.
-* Áp dụng các SOLID Pricipal & Design pattern cùng với sử dụng các giải thuật tối ưu hiệu xuất hệ thốgn và dễ dàng bảo trì
+* Áp dụng các SOLID Pricipal & Design pattern cùng với sử dụng các giải thuật tối ưu hiệu suất hệ thống và dễ dàng bảo trì
 
 ## Technologies used
 * Server: Python, Flask, SocketIO
