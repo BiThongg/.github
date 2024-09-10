@@ -31,5 +31,5 @@ Vui vẻ và thư giãn
 
 ## Author & Resource 
 * N22DCCN040	Đậu Văn Đăng Khoa    N22DCCN051	Nguyễn Thắng Lợi	N22DCCN090	 Nguyễn Minh Triết
-* BE: https://github.com/BiThongg
+* BE: https://github.com/BiThongg/CaroGameSocket
 * FE: https://github.com/BiThongg/SuTacClient
